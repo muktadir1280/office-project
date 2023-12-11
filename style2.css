@@ -1,0 +1,158 @@
+.container {
+    margin-bottom: 50px;
+}
+
+.sale {
+    height: 100px;
+    width: 100%;
+    color: #2e3192;
+    border: 1px solid #c3c6ef;
+    border-radius: 5px;
+    background-color: #c3c6ef;
+    text-align: center;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.card-footer {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-weight: 400px;
+    background-color: white;
+    border: none;
+}
+
+.cross {
+    color: black;
+    font-size: 20px;
+}
+
+.outer {
+    background-color: #2e3192;
+    color: white;
+    border-radius: 15px;
+}
+
+.icon {
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+.first {
+    border: 1px solid none;
+    background-color: #5e61ab;
+    height: auto;
+    width: 1130px;
+    border-radius: 5px;
+}
+
+.second {
+    color: black;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.cardpart {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cardd {
+    background-color: #5e61ab;
+    width: 24%;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cardd .icon{
+    height: 35px;
+    border-radius: 50%;
+    background: #fff;
+    font-size: 1.7rem;
+    margin-right: 10px;
+}
+.cardd .icon2{
+    font-size: 1.7rem;
+    margin-right: 10px;
+}
+
+.cardd .icon i{
+    width: 35px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #5e61ab;
+}
+
+.cardd .icon2 i{
+    width: 35px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.cardd .info h5{
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 0 !important;
+}
+.cardd .info h6{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cardd .weekend{
+    margin-top: 20px;
+}
+
+h6 {
+    display: inline;
+}
+
+nav {
+    background-color: #4e4feb;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+footer small{
+    font-weight: 300;
+}
+
+.outer .topad {
+    padding-top: 50px;
+}

@@ -250,6 +250,11 @@ body {
     background-color: #c3c6ef;
 }
 
+.single_product:hover {
+    background-color: tomato;
+    cursor: pointer;
+}
+
 .img {
     width: 150px;
     height: 150px;
